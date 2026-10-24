@@ -8,9 +8,15 @@ developers. No game files are included – you need your own copy of the game.
 
 ## Requirements
 
-- Airfix Dogfighter with **patch 1.2** (the setup window shows v1.20)
+- Airfix Dogfighter with **patch 1.20** (the setup window shows v1.20)
 - Windows 10 or 11, a Direct3D 11 graphics card that can run VR
 - **SteamVR** and a headset. Tested with Meta Quest 3 (Steam Link / Quest Link).
+
+### Getting the game
+
+Airfix Dogfighter is not sold digitally (it is on the [GOG dreamlist](https://static04.gog.com/dreamlist/game/airfix-dogfighter) –
+vote for a re-release). Use your original CD or buy a second-hand copy (e.g. [eBay](https://www.ebay.com/p/6482)).
+Install it and apply the free [patch 1.20](https://www.gamepressure.com/download/airfix-dogfighter-v120-patch/zd139).
 
 ## Install
 
@@ -61,9 +67,15 @@ ovladači, a k tomu volitelně **čeština**. Mod neobsahuje žádné soubory hr
 
 ## Požadavky
 
-- Airfix Dogfighter s **patchem 1.2** (v okně nastavení je v1.20)
+- Airfix Dogfighter s **patchem 1.20** (v okně nastavení je v1.20)
 - Windows 10 nebo 11, grafická karta s Direct3D 11, která zvládne VR
 - **SteamVR** a brýle. Vyzkoušeno s Meta Quest 3 (Steam Link / Quest Link).
+
+### Kde vzít hru
+
+Airfix Dogfighter se digitálně neprodává (je v [seznamu přání GOG](https://static04.gog.com/dreamlist/game/airfix-dogfighter) –
+hlasuj pro znovuvydání). Použij originální CD nebo sežeň krabicovou verzi z druhé ruky (např. [eBay](https://www.ebay.com/p/6482),
+Aukro, Bazoš). Nainstaluj ji a nahraj volně šířený [patch 1.20](https://www.gamepressure.com/download/airfix-dogfighter-v120-patch/zd139).
 
 ## Instalace
 
