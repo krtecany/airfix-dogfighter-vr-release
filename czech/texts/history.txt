@@ -1,0 +1,101 @@
+=== AcBf109.txt
+Prototyp Bf 109a, který navrhl profesor Willy Messerschmitt, ředitel společnosti Bayerische Flugzeugwerke AG, poprvé vzlétl v roce 1935. Postupný vývoj vedl k několika letům, při nichž padly rychlostní rekordy, a modely Bf 109B a C bojovaly ve službách Legie Condor ve španělské občanské válce.
+
+V roce 1938 byla společnost přejmenována na Messerschmitt AG, oficiálně se však u řady 109 po celou válku zachovalo označení Bf. Než byla v prosinci 1938 do služby u Luftwaffe zavedena první velká sériová verze Bf 109E, vzniklo jen několik kusů Bf 109D. Model E byl výkonnější, lépe vyzbrojený a pancéřovaný a v osudném létě 1940 jich bylo v útoku proti Velké Británii nasazeno přes 500.
+
+Tvrdé tažení, které vyvrcholilo v polovině září 1940, vešlo do dějin jako bitva o Británii. Bf 109 se spolu s britskými Hawker Hurricane a Supermarine Spitfire stal nejslavnějším stíhacím letadlem vůbec. Koncem roku 1940 se objevily první vylepšené Bf 109F a do konce roku 1941 model E u frontových jednotek Luftwaffe z velké části nahradily.
+
+Výsostné znaky v této stavebnici představují dva Bf 109E z období bitvy o Británii. Neobvykle označený stroj v šedé kamufláži létal s Hauptmannem Wilhelmem Meyerweissflogem, štábním důstojníkem Jagdgeschwader (JG) 53, který v červenci 1940 působil z Guernsey na Normanských ostrovech. Jeho letoun byl 5. září sestřelen u Manstonu a on padl do zajetí.
+
+Druhé schéma patří stroji "Žlutá 1", jednomu z nejpěkněji označených Bf 109E, se kterým létal slavné eso Luftwaffe Josef "Pips" Priller. V říjnu 1940 byl Staffelkapitanem 6/JG 51 na základně Mardyck v Belgii. Měl tehdy 20 vzdušných vítězství a dvě proti pozemním cílům, vyznačená na kýlovce jeho letounu. Do konce roku 1944 jeho skóre vzrostlo na 101 vítězství a stal se třetím nejúspěšnějším esem Luftwaffe na západní frontě za druhé světové války.
+
+Pohon: jeden dvanáctiválcový kapalinou chlazený motor Daimler-Benz DB 601A o výkonu 1 100 k. Maximální rychlost: asi 570 km/h ve výšce 3 800 m. Dolet: 663 km při cestovní rychlosti 400 km/h. Rozměry: rozpětí 9,85 m. Výška (přes příď, ostruha na zemi): 2,58 m. Výzbroj: dva kanóny MG FF ráže 20 mm v křídlech a dva kulomety MG 17 ráže 7,9 mm v přídi.
+
+=== AcBlackWidow.txt
+Black Widow byl první americký letoun navržený od začátku jako noční stíhač a do konce druhé světové války se stal standardním frontovým nočním stíhačem. Konstrukční práce začaly v roce 1940 v době nočního bombardování, které následovalo po bitvě o Británii, a firma Northrop do něj zapracovala mnoho tehdy získaných zkušeností.
+
+Prototyp XP-61 byl velký letoun zhruba o velikosti a hmotnosti středního bombardéru, se dvěma trupovými nosníky a s posádkou, radarem a výzbrojí v centrální gondole. Tříčlennou posádku tvořil pilot, operátor radaru a střelec sedící nad ním a za ním a radista a střelec v samostatném prostoru vzadu.
+
+Pevnou výzbroj tvořila baterie čtyř 20mm kanónů pod podlahou, ze kterých pálil pilot, pohyblivou výzbroj dálkově ovládaná věž se čtyřmi kulomety ráže 12,7 mm, kterou mohl ovládat kdokoli z posádky. Dodávky sériových letounů začaly ve druhé polovině roku 1943. První P-61A měly horní věž, ale v provozu s ní byly potíže, a tak většina vyrobených strojů A ji neměla. P-61A Black Widow "Lady in the Dark", jeden z námětů tohoto modelu, se účastnil tažení v Tichomoří u 548. noční stíhací perutě.
+
+14. srpna 1945 vzlétl ze základny Ie Shima se dvoučlennou posádkou, pilotem poručíkem Clydem a operátorem radaru poručíkem Lefordem, aby zachytil japonské stíhačky "Oscar". Pozdě v noci zachytil radarem jeden "Oscar" a pustil se do pronásledování. Během manévrů se oba letouny dostávaly stále níž nad moře, až se "Oscar" zřítil, aniž by kterýkoli z nich vystřelil. Když "Lady in the Dark" brzy ráno 15. srpna přistála, válka skončila a ona měla na kontě poslední sestřel války.
+
+P-61B Black Widow poháněly dva motory Pratt and Whitney Double Wasp o výkonu 2 250 k s maximální rychlostí 589 km/h. Běžný dolet byl 1 513 km a maximální dolet s přídavným palivem 3 058 km. Výzbroj tvořily čtyři 20mm kanóny a čtyři kulomety ráže 12,7 mm a letoun unesl až 2 900 kg pum. Rozpětí bylo 20,1 m a délka 14,9 m.
+
+=== AcDauntless.txt
+Dauntless, pravděpodobně jeden z nejslavnějších letounů amerického námořnictva ve druhé světové válce, byl už při vstupu USA do války zastaralý, přesto bojoval až do konečného vítězství.
+
+Verze SBD-3 je letoun jednotky VSB-8, která létala z lodi USS Hornet v bitvě v Korálovém moři a v bitvě u Midway. Poháněl ji motor Wright Cyclone o výkonu 1 000 k s maximální rychlostí 396 km/h. Verze SBD-5 je stroj kapitána Bella od U.S.M.C., VMSB-231, z roku 1944. Poháněl ho motor Cyclone o výkonu 1 200 k a dosahoval rychlosti 410 km/h.
+
+Dolet s plným nákladem byl 734 km a výzbroj tvořily dva pevné kulomety ráže 12,7 mm v přídi a jeden nebo dva kulomety ráže 7,7 mm v zadním kokpitu. Pumový náklad tvořila jedna puma o hmotnosti 227 nebo 454 kg pod trupem a jedna 45kg puma pod každým křídlem.
+
+=== AcFiatG50.txt
+Fiat G50 poprvé vzlétl 26. února 1937. Bojoval ve španělské občanské válce v roce 1938 a v roce 1940 vstoupila do služby u italského letectva vylepšená verze G50bis.
+
+G50bis měl přepracovaný trup, silnější pancéřování a samosvorné palivové nádrže. Dostalo ho i finské a chorvatské letectvo. Celkem bylo vyrobeno 500 letounů.
+
+=== AcFw190.txt
+Fw190D-9, který navrhl Kurt Tank, byl přechodný model mezi dřívější řadou Fw190A s hvězdicovým motorem a pozdějším výškovým stíhačem Ta 152. Poháněl ho dvanáctiválcový kapalinou chlazený řadový motor Junkers Jumo 213A o výkonu 1 776 k a ukázal se jako jeden z nejlepších pístových stíhačů, jaké Luftwaffe kdy měla.
+
+Dosahoval maximální rychlosti 685 km/h ve výšce 6 500 m, jeho dostup byl 12 000 m a dolet 837 km. Sériové D-9, přezdívané "Dora", vstoupily do služby v říjnu 1944 a do května 1945 jich bylo vyrobeno téměř 700.
+
+Kromě nasazení jako stíhací bombardéry D-9 také kryly proudové Me262 Luftwaffe v kritických fázích přistání a vzletu, kdy byly zranitelné vůči útokům spojeneckých stíhaček.
+
+=== AcHellcat.txt
+Hellcat byl jedním z nejúspěšnějších palubních stíhačů druhé světové války a přímým potomkem dřívějšího Wildcatu od firmy Grumman. F6F-3 Hellcat je stroj, se kterým létal fregatní kapitán James Flatley, velitel Air Group 5 z letadlové lodi U.S.S. Yorktown (CV-10).
+
+F6F-5 byl Hellcat II od 800. perutě Fleet Air Arm, naloděné v únoru 1945 na H.M.S. Emperor. Hellcat poháněl motor Pratt & Whitney Double Wasp o výkonu 2 000 k s maximální rychlostí 597 km/h. Výzbroj tvořilo šest kulometů ráže 12,7 mm a letoun mohl nést rakety nebo dvě 45kg pumy. Rozpětí 13,1 m, délka 10,2 m.
+
+=== AcHurricane.txt
+Hawker Hurricane byl považován za jeden z nejodolnějších a nejspolehlivějších stíhacích letounů RAF a své výrazné místo v historii letectví si nepochybně vydobyl obranou při bitvě o Británii v roce 1940. Prototyp, který navrhl Sydney Camm, poháněl motor Rolls Royce P.V. 12, později nazvaný Merlin, a poprvé vzlétl 6. listopadu 1935. Po zkouškách ovladatelnosti byla objednána série 600 letounů, z nichž první vstoupily do služby u 111. perutě v Northoltu v prosinci 1937.
+
+Na začátku druhé světové války měla RAF 19 perutí Hurricanů a tento typ bojoval ve Francii a Norsku. Během bitvy o Británii v roce 1940 mělo stíhací velitelství v průměru 1 326 Hurricanů proti 957 Spitfirům. Hurricane Mk I poháněl dvanáctiválcový motor Rolls Royce Merlin III o výkonu 1 030 k s maximální rychlostí 521 km/h ve výšce 4 770 m a doletem 813 km. Výzbroj tvořilo 8 kulometů Browning ráže 7,7 mm v křídlech.
+
+=== AcKomet.txt
+Messerschmitt Me163, přezdívaný Komet, byl první a jediný bojově nasazený raketový stíhač a bezocasý letoun na světě. Drobný letoun tvaru delty, který vyvinul Alexander Lippisch, byl za druhé světové války zdaleka nejrychlejším letadlem na obloze. Kvůli omezenému doletu a výdrži však měl jen asi 10 minut na to, aby nepřítele našel a zničil.
+
+Me163 měl být bodovým obranným stíhačem s úkolem chránit vlast. Při prvních zkouškách dosáhly prototypy rychlosti přes 1 100 km/h a staly se prvními letouny, které se skutečně přiblížily rychlosti zvuku. Me163 bojovaly ke konci druhé světové války s omezeným úspěchem a bylo jich vyrobeno příliš málo, aby výrazně ovlivnily výsledek války. Po válce si několik Me163 ponechali Spojenci ke studiu a několik z nich je dnes v muzeích.
+
+=== AcMe262.txt
+První použitelný německý proudový stíhač druhé světové války. Prototyp poprvé vzlétl v roce 1942 a sériové letouny byly ve službě od listopadu 1944. V roce 1945 byla zavedena dvoumístná noční stíhací verze s označením Me 262B-1A/U1.
+
+Dva proudové motory Junkers Jumo 004B o tahu 8,8 kN. Maximální rychlost 863 km/h ve výšce 7 000 m, dostup 11 000 m, dolet ve výšce 6 000 m 845 km. Rozpětí 12,5 m, délka 10,6 m, výška 3,8 m. Čtyři 30mm kanóny MK 108 a možnost nést 24 raket R4M vzduch-vzduch. Verze Me 262A-2A nesla dvě 500kg pumy.
+
+=== AcMustang.txt
+North American Mustang, mnohými považovaný za nejlepší jednomístný pístový stíhač druhé světové války, byl navržen v roce 1940 podle požadavků RAF a prototyp vznikl za neuvěřitelně krátkých 117 dní. Po vývoji přes řady P-51A, B a C byla verze D výrazně vylepšena: měla výkonnější motor, kapkovitý překryt kabiny a výkony, které neměly obdoby.
+
+Mustang, proslulý jako doprovod bombardérů u letectva americké armády, se díky velkému doletu uplatnil i ve válce v Tichomoří. Motor Merlin o výkonu 1 450 k, vyráběný firmou Packard, mu dával maximální rychlost 703 km/h ve výšce 7 600 m, dostup 12 800 m a dolet se dvěma přídavnými nádržemi 1 046 km.
+
+Výzbroj tvořilo šest kulometů Browning ráže 12,7 mm a pod křídly mohl nést dvě 227kg pumy. Výsostné znaky jsou pro Mustang J26/P-51D první perutě křídla F16 švédského letectva se základnou v Uppsale v roce 1945, které používalo více než 160 Mustangů až do roku 1954. Volitelné znaky jsou pro P-51K Mustang IVA od 249. perutě (Gold Coast) Royal Air Force se základnou v Brindisi v jižní Itálii v červnu 1945.
+
+=== AcSpitfire.txt
+Jen málo letadel získalo takovou slávu jako legendární Supermarine Spitfire. Jeho klasický tvar spolu se skvělým motorem dal vzniknout bojovému stroji, který neměl mnoho rovných. Spitfire byl navržen podle požadavků ministerstva letectví jako denní a noční stíhač kolem nového dvanáctiválcového motoru Rolls Royce do V o výkonu 1 000 k, ze kterého se později stal slavný Merlin.
+
+První sériový Spitfire Mk1 dostala RAF v květnu 1938 a na začátku bitvy o Británii v srpnu 1940 bylo u stíhacího velitelství bojeschopných 19 perutí Spitfirů. Aby si udržela převahu nad německým Messerschmittem Bf109E, vznikla výkonnější verze Spitfiru s označením MkV. Šlo v podstatě o Mk 1 se silnějším motorem Merlin 45 o výkonu 1 450 k ve výšce 2 743 m. Maximální rychlost byla 594 km/h a dolet na vnitřní palivo 756 km.
+
+V prosinci 1940 vstoupil do služby Mk Vb a dal RAF výraznou převahu ve stíhacích schopnostech nad Luftwaffe. Mk V bylo vybaveno přes 140 perutí RAF a v letech 1940 až 1943 jich bylo vyrobeno celkem 6 464. Mk V byl také prvním Spitfirem, který sloužil v zámoří, a dostalo ho devět cizích zemí včetně Ruska a Spojených států.
+
+=== AcStuka.txt
+Německý blitzkrieg napříč Polskem a Francií v letech 1939-40, postavený na pohyblivosti a pružnosti, byl zničujícím způsobem účinný. Klíčovou roli v této "bleskové válce" hrála Ju 87 Stuka. Tento ošklivý střemhlavý bombardér, symbol teroru a zkázy, získal během své poměrně krátké bojové kariéry téměř legendární pověst. Název Stuka je zkratkou slova Sturzkampfflugzeug, obecného označení všech střemhlavých bombardérů, které se však vžilo právě pro letoun Junkers s lomeným křídlem.
+
+Demoralizující účinek Ju 87 jako střemhlavého bombardéru (při střemhlavém útoku se uváděla přesnost lepší než 27 metrů) ještě zesílila větrem poháněná siréna, která vydávala typický jekot, slyšitelný při útocích Stuk. Jednotky Stuk, opojené úspěchem v polském a francouzském tažení, kde byl vzdušný odpor minimální, vstupovaly do bitvy o Británii se sebevědomím podporovaným německou propagandou, která letoun oslavovala jako dokonalou zbraň. Útočná obrana cílů v jižní Anglii ze strany stíhacího velitelství RAF však Stukám zabránila zopakovat dřívější úspěchy.
+
+Konstrukční práce na Ju 87 zahájil v roce 1933 inženýr firmy Junkers Dipl. Ing. Pohlmann a prototyp poprvé vzlétl začátkem roku 1935. Poháněl ho motor Rolls-Royce Kestrel V o výkonu 640 k a od pozdějších sériových strojů se lišil dvojitými kýlovkami a směrovkami. Nadměrné vibrace ocasních ploch vedly k poruše konstrukce a ke ztrátě letounu v rané fázi letových zkoušek. Druhý prototyp dostal velkou jednoduchou kýlovku se směrovkou, což problém s vibracemi vyřešilo. Sériové Ju 87A vstoupily do služby u Luftwaffe se Stukageschwader 163 v roce 1937 a koncem roku byl do Španělska vyslán oddíl, aby typ vyzkoušel v boji u Legie Condor.
+
+Téměř bez odporu útočily na silnice, mosty a další cíle na podporu nacionalistů a Luftwaffe získala cenné zkušenosti se střemhlavým bombardováním. V roce 1938 nahradila řadu A ve výrobě vylepšená Ju 87B s řadou úprav. Motor Junkers Jumo o výkonu 635 k z dřívější verze nahradil u B-2 motor o výkonu 1 100 k, takže se pumový náklad zdvojnásobil. Varianta B-2/Trop. měla tropické filtry a pouštní záchrannou výbavu pro nasazení ve Středomoří a v jižním Rusku.
+
+Z řady B vycházela i Ju 87R (R znamená Reichweite, tedy dolet), verze s velkým doletem s přídavnými nádržemi pod křídly, které zvyšovaly dolet na 1 408 km při pumovém nákladu omezeném na jedinou 250kg pumu. 16. srpna 1940, na vrcholu bitvy o Británii, zaútočil velký svaz Stuk od St.G 2 na základnu RAF Tangmere v Sussexu. Hurricany 43. perutě z tohoto letiště odstartovaly a podařilo se jim zničit sedm střemhlavých bombardérů, ne však dříve, než byla základna těžce poškozena.
+
+Mnoho dalších letišť v jižní Anglii utrpělo v té době podobné útoky, Stuky však vždy utrpěly těžké ztráty. Později v roce 1940 byly jejich útoky na britskou pevninu jen nárazové a účinnější byly přepady spojeneckých lodí v Lamanšském průlivu. Právě při jednom takovém útoku brzy odpoledne 14. listopadu 1940 sestřelily Spitfiry RAF u Doveru stroj "J9+BL", jeden z námětů této stavebnice. Přežil jen pilot, Oblt. Otto Blumers, který padl do zajetí.
+
+=== AcTyphoon.txt
+První Typhoon, navržený podle požadavků ministerstva letectví, vzlétl 24. února 1940 a do služby vstoupil v roce 1941. Tento jednomístný stíhací a bitevní letoun poháněl motor Napier Sabre IIA o výkonu 2 180 k a u hladiny moře dosahoval maximální rychlosti 555 km/h. Dostup byl 9 906 m a dolet s přídavnými nádržemi 1 577 km.
+
+Výzbroj tvořily 4 kanóny ráže 20 mm a dvě 454kg pumy nebo 8 raket. Po odstranění počátečních problémů s konstrukcí a motorem slavil Typhoon Ib úspěchy proti létajícím bombám V-1 a německým tankům po dni D. Typhoony používalo 32 jednotek RAF a celkem jich bylo vyrobeno asi 3 300.
+
+=== AcZero.txt
+Zero byl nejznámější ze všech japonských letadel a první palubní stíhač, který se ukázal jako lepší než jeho pozemní protivníci. Původní požadavky z roku 1937 byly tak náročné, že je přijala jen společnost Mitsubishi. Žádaly vysokou rychlost a velkou obratnost. Firma se do toho pustila a první prototyp vzlétl v dubnu 1939, v roce 1940 ho následovala výkonnější verze, první A6M2.
+
+Rané sériové Zero byly nasazeny v Číně v roce 1940, 18 měsíců před Pearl Harborem, a současně proběhly zkoušky na letadlových lodích, které vedly k modelu 21 se sklopnými konci křídel pro snazší uložení. Tato verze byla nasazena u Pearl Harboru a v celém Tichomoří v počátečních fázích války.
+
+S postupem války vznikaly další verze Zero včetně dvoumístných cvičných letounů a plovákových stíhačů. Pozdější modely se dokonce používaly jako střemhlavé bombardéry a ke konci tichomořského tažení i jako sebevražedné letouny. A6M2 Zero poháněl motor Sakae o výkonu 952 k s maximální rychlostí 510 km/h. Výzbroj tvořil 20mm kanón a dva kulomety ráže 7,7 mm. Rozpětí bylo 12,0 m a délka 9,1 m.

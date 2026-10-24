@@ -1,0 +1,6 @@
+*.bat -text
+*.ini -text
+*.dll binary
+*.exe binary
+*.txt -text
+*.loc -text

@@ -1,0 +1,141 @@
+=== AllAircrafts.brf
+
+=== allied1.brf
+[NAME] Správná výbava
+[OUTL] <br>Tažení začíná a nastal čas postavit se nepříteli čelem a vyhnat z této oblasti jeho odporné vetřelce.<br><br>Tady přežijí jen opravdu zdatní letci, takže bys měl svou stíhačku dobře ovládat. Nejdřív nás ale musíš ohromit základními pilotními dovednostmi.
+[TEXT] Vítej na frontě, pilote. V první misi prokážeš své základní letecké dovednosti. Vzlétni\nz <img 'unit_alliedairfield'>letiště Avalon</img> v <img 'room_kids'>sektoru Canary</img> a podle pokynů sbírej různé předměty.<br><br>Potom zkusíš štěstí se zbraněmi proti několika zbloudilým německým jednotkám v <img 'room_uhall'>sektoru Highland</img>. Hodně štěstí, zelenáči.
+[PRIM] <br>Seber <img 'pickup_paint'>barvu</img> a <img 'pickup_glue'>lepidlo</img>, najdi novou <img 'pickup_kit'>stavebnici</img> modelu a k ní <img 'pickup_plans'>plánky</img>.
+[SCND] <br>Seber žlutý klíč. Znič všechny nepřátelské jednotky v <img 'room_uhall'>sektoru Highland</img>.
+
+=== allied10.brf
+[NAME] Rozhodující střet
+[OUTL] <br>Hun je na útěku. Náš úspěšný nálet na poslední letiště Luftwaffe je připravil o domov i o úkryt. Zbytky jejich sil se shromáždily v sektoru Frontage spolu s mnoha pozemními jednotkami.<br><br>\nPodle nových zpráv si přivezli i závažnou posilu svého arzenálu jako poslední pokus nás odrazit. Nevíme přesně, co to je, jen že je to obrovské.
+[TEXT] Tvou poslední misí je zničit Luftwaffe. Podle našich zpráv její zbytky prohledávají <img 'room_fyard'>sektor Frontage</img> a hledají místo pro nové letiště. Zřejmě dostaly silnou pozemní podporu od okolních perutí.<br><br>\nNaše radary dlouhého dosahu před pár minutami zachytily také <img 'unit_zeppelinsecret'>obrovskou ozvěnu</img>. Zatím nevíme, co to je, jen že míří do stejného sektoru.<br><br>\nUdělej jim peklo!
+[PRIM] <br>Znič všechny pozemní jednotky v <img 'room_fyard'>sektoru Frontage</img>.
+[SCND] <br>Prozkoumej neznámou radarovou anomálii. Najdi novou stavebnici modelu a její plánky.
+
+=== allied2.brf
+[NAME] Nebezpečné území
+[OUTL] <br>Útočí na nás na všech frontách a bráníme se nijak slavně. Abychom odrazili bleskové útoky Hunů, potřebujeme silnou obrannou zbraň.<br><br>\nŠíří se zvěsti o sektoru Parentage a ztraceném konvoji se zprávami o zbraních.
+[TEXT] Musíme prozkoumat <img 'room_parents'>sektor Parentage</img>. Víme, že ho drží nepřítel, takže to může být riskantní, ale ty informace zoufale potřebujeme. Rychle ho prolétni a opatrně se podívej, co najdeš.<br><br>\nAbys se do sektoru dostal, musíš nejdřív získat modrý klíč. Prý by měl být někde v hlavní křižovatce před tímto sektorem.
+[PRIM] <br>Najdi a seber modrý klíč.
+[SCND] <br>Najdi <img 'pickup_weapschem'>nákresy zbraně</img>.
+
+=== allied3.brf
+[NAME] Společný podnik
+[OUTL] <br>Naším dalším krokem je zasáhnout nepřátelskou výrobu zbraní. Naši špioni hlásí novou továrnu v nedalekém sektoru, která bude dnešním cílem. Myslíme si, že vyrábí chemické zbraně té nejhorší sorty, a to nesmíme dovolit.<br><br>Pomoc nabídli i Američané. Na úspěchu této mise závisí životy mnoha našich vojáků.
+[TEXT] <img 'room_sisters'>Sektor Pinky Hill</img> je a vždycky byl plný nepřátel. Nepřítel je ozbrojen po zuby a nejspíš náš útok čeká. Překvap ho novými <img 'pickup_paramines'>padákovými minami</img>.<br><br>\nVstup otevře růžový klíč, který je někde v <img 'room_uhall'>sektoru Highland</img>. Myslíme si, že ho schovávají tankové jednotky, které tu hlídkují. Americká stíhací peruť nám vzkázala, že pošle posily. Setkejte se v <img 'room_uhall'>sektoru Highland</img> a zaútočte společně na <img 'unit_factory'>továrnu</img> a její obranu.
+[PRIM] <br>Najdi a seber růžový klíč.
+[SCND] <br>Znič <img 'unit_factory'>továrnu</img>.
+
+=== allied4.brf
+[NAME] Nálet na půdu
+[OUTL] <br>Na velitelství právě dorazila zpráva, že Američané vstoupili do války a podpoří nás na všech frontách. To posílí naše oslabené jednotky ve všech sektorech a naší věci to jistě pomůže.<br><br>Předali nám také zachycenou rádiovou zprávu o bleskovém náletu na naše nejnovější předmostí. Nasaď si brýle a ten zákeřný plán zastav.
+[TEXT] Radar zachytil v <img 'room_uhall'>sektoru Highland</img> skupinu tří <img 'unit_junkers2'>těžkých bombardérů</img>, které míří do <img 'room_attic'>sektoru Althorn</img>. Musíš je zachytit a nedovolit jim zničit naše pozemní jednotky tam nahoře.<br><br>Stíhací doprovod nejspíš mít nebudou, protože si myslí, že o jejich plánu nevíme. Přesto nepolevuj v pozornosti. Bombardéry ve formaci pořádně koušou.
+[PRIM] <br>Znič všechny <img 'unit_junkers2'>bombardéry</img>, braň pevnosti. Znič nepřátelskou předsunutou základnu.
+[SCND] <br>Braň <img 'unit_alliedairfield'>letiště Avalon</img>.
+
+=== allied5.brf
+[NAME] Teror na záchodě
+[OUTL] <br>Díky posledním bojům se Němci dočasně stáhli a opevnili se v sektoru Tee Pee. Zřejmě tu zřídili námořní základnu, aby prorazili naši obranu a za našimi zády propašovali posily.<br><br>Netřeba víc vysvětlovat, že jim to nesmíme dovolit. Je čas sevřít pěst a udeřit tam, kde to bolí.
+[TEXT] Německé zámořské válčení je díky jejich <img 'unit_uboat'>ponorkám</img> už dlouho nepříjemně účinné. Podle našich zdrojů právě dvě z nich dorazily do <img 'room_toilet'>sektoru Tee Pee</img>, aby vyložily posily a provedly opravy.<br><br>Právě teď jsou nejzranitelnější a tuhle příležitost nesmíme promarnit. Ty a tvůj kolega se do sektoru dostanete pomocí bílého klíče, prolomíte obranu a ponorky potopíte.
+[PRIM] <br>Najdi bílý klíč a znič <img 'unit_uboat'>ponorky</img>.
+[SCND] <br>Najdi novou <img 'pickup_kit'>stavebnici modelu</img> a <img 'pickup_plans'>plánky</img>.
+
+=== allied6.brf
+[NAME] Ulička hrůzy
+[OUTL] <br>Německé vědecké oddělení pro nás bylo vždycky tak trochu záhadou. Chrlí ničivé vynálezy, které my sotva dostaneme z rýsovacího prkna. Dlouho tušíme zásah neznámé síly neznámého původu, ale nikdy jsme nic nedokázali.<br><br>Zatím se musíme spolehnout na poněkud pochybnější metody, abychom s jejich vyspělou technikou drželi krok. Krádež.
+[TEXT] Naši špioni nám poslali šifrovanou zprávu, že Němci chtějí zahladit všechny stopy vědeckého projektu ve svém <img 'room_living'>hlavním sektoru</img>. Hotový výrobek už zřejmě odeslali a teď pálí všechny ostatní důkazy své pochybné práce. To je naše šance vylepšit si výzbroj.<br><br>\nMusíš otevřít jejich hlavní obranný perimetr, vletět dovnitř a ukrást <img 'pickup_weapschem'>nákresy zbraně</img>, než je spálí. Budeš pod silnou dělostřeleckou palbou, takže si pospěš.
+[PRIM] <br>Najdi zelený klíč.
+[SCND] <br>Najdi <img 'pickup_weapschem'>nákresy zbraně</img> a seber aspoň 5 tub <img 'pickup_glue'>lepidla</img>.
+
+=== allied7.brf
+[NAME] Noční blesk
+[OUTL] <br>Naše nedávná činnost v okolních sektorech zřejmě síly Osy rozzlobila víc, než jsme čekali. Dozvěděli jsme se, že chystají odvetu plošným bombardováním našeho velitelství.<br><br>Víc ale nevíme. O povaze útoku ani o tom, odkud přijde, jsme nic nezjistili.
+[TEXT] Naši vědci prostudovali nákresy, které jsi získal v minulé misi, a postavili podobné zařízení, jakému Němci říkají částicový paprsek. Díky naší vlastní energetické technologii je ale trochu jiné. Myslíme si, že tě <img 'pickup_teslacoil'>Teslova cívka</img> nezklame.<br><br>\nPři nadcházejícím útoku ji ale používej opatrně, může zasáhnout i naše vlastní jednotky. Pořád je ve vývoji. Buď ve střehu, pilote.
+[PRIM] <br>Braň <img 'unit_alliedairfield'>letiště Avalon</img>.
+[SCND] <br>Seber novou <img 'pickup_kit'>stavebnici modelu</img> a její <img 'pickup_plans'>plánky</img>.
+
+=== allied8.brf
+[NAME] Podpora Yankeeů
+[OUTL] <br>Zase se dozvídáme o dalším geniálním kousku německé techniky. Prý vyvinuli stíhačku s novým proudovým pohonem s krycím jménem Sturmvogel. Musíme to prověřit a pokud možno zastavit.<br><br>První prototypy budou nejspíš v jejich hlavním sektoru kvůli výcviku pilotů a zkouškám, takže odpovíme obléháním této oblasti.
+[TEXT] Abychom uzavřeli východ ze <img 'room_living'>sektoru Liven</img>, musíme ho opevnit pořádným počtem tanků. Tvým úkolem je doprovodit je dolů do <img 'room_dhall'>sektoru Junction</img> a poskytnout jim leteckou podporu, zatímco zřizují předmostí.<br><br>\nS velitelstvím Osy tak blízko to nebude snadné a hlavně naše pozemní jednotky nejspíš utrpí těžké ztráty. Ale hlavní je, abychom uspěli. Hodně štěstí!
+[PRIM] <br>Doprovoď dolů aspoň 6 tanků.
+[SCND] <br>Znič aspoň 2 <img 'unit_me262secret'>tajné proudové stíhačky</img>.
+
+=== allied9.brf
+[NAME] Srážka v garáži
+[OUTL] <br>Abychom udrželi kontrolu nad dobytými oblastmi, musíme si zajistit vzdušnou převahu. Luftwaffe sbírá síly a právě teď neustále přiváží nové posily.<br><br>Musíme jednat bez váhání a udeřit, než bude pozdě.
+[TEXT] Poslední letiště sil Osy je v <img 'room_garage'>sektoru Gaggle</img>. Je silně střežené a snadno nepadne. Když ho ale zničíme, budou víceméně ochromení a připravení na poslední úder.<br><br>\nAbys se do sektoru dostal, musíš nejdřív najít žlutý klíč, který má být schovaný někde v <img 'room_dhall'>sektoru Junction</img>. A pomoz nám najít nejnovější <img 'pickup_kit'>stavebnici modelu</img>, kterou budeme potřebovat v závěrečném střetu.
+[PRIM] <br>Najdi žlutý klíč a znič <img 'unit_axisairfield'>německé letiště</img>.
+[SCND] <br>Najdi novou <img 'pickup_kit'>stavebnici modelu</img> a její <img 'pickup_plans'>plánky</img>.
+
+=== axis1.brf
+[NAME] Jagdschule
+[OUTL] <br>Je čas zahájit tažení Feuer a rozšířit naše území v této oblasti. Nebude to snadné, ale udeříme tvrdě a rychle a spolehneme se na přesilu proti už tak oslabenému Královskému letectvu.<br><br>\nNež se vzpamatují, zničíme jejich leteckou podporu a budeme moci pokračovat v invazi na jejich ostrůvek.
+[TEXT] Vítej na velitelství Luftwaffe, pilote. V první misi předvedeš základní letecké manévry a trochu si zastřílíš na cíle. Vzlétni\nz <img 'unit_axisairfield'>letiště Richthofen</img> ve <img 'room_living'>sektoru Stellung</img> a podle pokynů sbírej různé předměty.<br><br>V <img 'room_dhall'>sektoru Kreuzung</img> zabloudilo pár hloupých britských vojáků, kteří ti poslouží jako snadné terče. Hodně štěstí, zelenáči.
+[PRIM] <br>Seber <img 'pickup_paint'>barvu</img> a <img 'pickup_glue'>lepidlo</img>, najdi novou <img 'pickup_kit'>stavebnici</img> modelu a k ní <img 'pickup_plans'>plánky</img>.
+[SCND] <br>Seber zelený klíč. Znič všechny nepřátelské jednotky v <img 'room_dhall'>sektoru Kreuzung</img>.
+
+=== axis10.brf
+[NAME] Chlórový chaos
+[OUTL] <br>Nastal čas pro náš poslední tah proti spojeným silám Spojenců. Oni to vědí, a tak přivezli své nejtěžší námořní kolosy a opevnili sektor Baden.<br><br>\nZničit je všechny nebude snadné, ale pár trumfů nám ještě zbývá. Netuší, že všechny naše zámořské ponorky jsou nablízku a připravené zaútočit. Nevědí ani, že nás podporuje obávané japonské letectvo.
+[TEXT] Nejkratší cesta do <img 'room_byard'>sektoru Baden</img> vede přes <img 'room_cellar'>sektor Untersee</img>. Využij tuto zkratku a překvap nepřítele bleskovým útokem. Jakmile o tobě budou vědět, rychle se přizpůsobí a udeří na tebe vším, co mají.<br><br>\nNaši američtí agenti hlásí ztracenou zásilku nové, nesmírně ničivé <img 'pickup_abombsecret'>bomby</img>, která zmizela někde v tomtéž sektoru. Zřejmě ji hledají i oni, takže měj oči na stopkách. Když jim ji vyfoukneš přímo pod nosem, budeš mít větší šanci.<br><br>Sláva statečným!
+[PRIM] <br>Potop loď <img 'unit_enterprisesecret'>Enterprise</img> a její doprovod v <img 'room_byard'>sektoru Baden</img>.
+[SCND] <br>Znič všechny nepřátelské pozemní jednotky. Najdi novou stavebnici modelu a \njejí plánky.
+
+=== axis2.brf
+[NAME] Létající špagety
+[OUTL] <br>Teď jsi připraven na pořádnou akci. Italské síly souhlasily, že nám dají další letadla, když jim pomůžeme s únikem informací. Zřejmě odhalily nepřátelské špiony v sektoru Nahrung a chtějí, abychom se s nimi vypořádali.<br><br>To je pro nás dobrá příležitost získat spojence. Musíme všem ukázat, jak řešíme podobné problémy.
+[TEXT] Nepřátelští špioni ukradli nové <img 'pickup_weapschem'>nákresy zbraně</img>, ale skončili zahnaní v <img 'room_kitchen'>sektoru Nahrung</img>, velmi blízko našeho velitelství. Nějak se jim podařilo schovat bílý klíč, který potřebujeme k otevření této oblasti, ale myslíme si, že bude někde v <img 'room_dhall'>sektoru Kreuzung</img>.<br><br>\nUvnitř se chovej nenápadně. Podle našeho sledování netuší, že jejich skutečná totožnost byla odhalena. Až jim doručíš naši odplatu, budou pěkně překvapení.
+[PRIM] <br>Najdi bílý klíč.
+[SCND] <br>Zlikviduj špiony a najdi <img 'pickup_weapschem'>nákresy zbraně</img>.
+
+=== axis3.brf
+[NAME] Bitva o jídlo
+[OUTL] <br>Zapojení Itálie do války se už vyplatilo. Díky nákresům, které jsme předtím získali, jsme vyvinuli naváděnou střelu, která umí sama pronásledovat cíl.<br>\nIl Duce nás požádal o pomoc s jedním svým problémem.<br><br><img 'next_page'>Další strana</img>
+[TEXT] <img 'unit_convoy'>Konvoj</img> je někde ve <img 'room_dining'>sektoru Fressen</img>. Abys se do té oblasti dostal, musíš nejdřív najít hnědý klíč.<br><br>Je schovaný v <img 'room_dhall'>sektoru Kreuzung</img> spolu s novou <img 'pickup_kit'>stavebnicí</img> modelu, kterou také potřebujeme. Získej je, vrať se a konvoj znič.
+[PRIM] <br>Najdi hnědý klíč, seber novou <img 'pickup_kit'>stavebnici</img> modelu a její <img 'pickup_plans'>plánky</img> v <img 'room_dhall'>sektoru Kreuzung</img>.
+[SCND] <br>Znič konvoj ve <img 'room_dining'>sektoru Fressen</img>.
+
+=== axis4.brf
+[NAME] Radioterapie
+[OUTL] <br>S naší nejnovější stíhačkou se teď přibližujeme k RAF. Prvním krokem k jejímu zničení je vyřadit jejich prokleté radarové stanice. Jen tak máme vůbec šanci dostat se k jejich letištím, aniž by na nás čekala celá legie pijáků čaje.<br><br>\nNejnovější zprávy od našich špionů odhalily zajímavé údaje o poloze jejich tajných stanic.
+[TEXT] Abys otevřel <img 'room_laundry'>sektor Waesche</img>, musíš najít červený klíč. Kvůli důležitosti této oblasti bude nejspíš silně střežený, takže dávej pozor. Až budeš uvnitř, je jen na tobě, abys způsobil co největší zmatek. Znič všechny <img 'unit_radarstation'>radarové stanice</img> jediným rychlým úderem.<br><br>\nPrávě dorazil nejnovější Messerschmitt a je ti k dispozici. Jeho skvělé vlastnosti se ti v misích budou hodit. Dobrý lov.
+[PRIM] <br>Najdi červený klíč.
+[SCND] <br>Znič všechny <img 'unit_radarstation'>radarové stanice</img> v <img 'room_laundry'>sektoru Waesche</img>.
+
+=== axis5.brf
+[NAME] Útok na zahradu
+[OUTL] <br>Když jsou radarové stanice pryč, můžeme konečně zaútočit na RAF tam, kde to bolí. Jejich hlavní letiště je zralé ke sklizni. Je naprosto nezbytné, abys v této misi uspěl.<br><br>Letci spojeneckého letectva jsou nelítostní bojovníci a druhou šanci nám nedají. Nejspíš právě teď posilují svou pozemní obranu, takže si pospěš.
+[TEXT] Abychom zničili <img 'unit_alliedairfield'>letiště</img> s jeho silnou pozemní obranou, musíme nasadit těžké <img 'unit_junkers1'>bombardéry</img>. Dovedeš je do <img 'room_fyard'>sektoru Garten</img> a zničíš obranný perimetr. Dávej pozor i na stíhače v oblasti. Nalákej je na sebe a drž je od bombardérů.<br><br>\nNaše nově objednaná stíhačka zřejmě dorazila s neutrálními kurýry. Najdi <img 'pickup_kit'>stavebnici</img> modelu a odpovídající <img 'pickup_plans'>plánky</img>.
+[PRIM] <br>Znič <img 'unit_alliedairfield'>letiště</img> v <img 'room_fyard'>sektoru Garten</img>.
+[SCND] <br>Najdi <img 'pickup_kit'>stavebnici</img> modelu a její <img 'pickup_plans'>plánky</img>.
+
+=== axis6.brf
+[NAME] Závod o lepidlo
+[OUTL] <br>Naše poslední úsilí v sektoru Garten vyčerpalo zásoby a potřebujeme doplnit materiál. Konvoje s materiálem na opravy se ale zpožďují a naše mechaniky už nemůžeme dál zdržovat.<br><br>\nProto jsme se rozhodli vyrabovat nepřátelské zásoby. Spojenci mají v sektoru Riesen spoustu lepidla navíc a toho musíme využít.
+[TEXT] Tajná zásoba <img 'pickup_glue'>lepidla</img> Spojenců je nahoře v <img 'room_parents'>sektoru Riesen</img>. Víme, že uvnitř je silně opevněný, takže musíš udeřit a zmizet. Zůstaneš-li tam moc dlouho, bez pochyby tě rozprášíme na prach.<br><br>\nMyslíme si také, že tam Spojenci ukryli nedávno ukradené <img 'pickup_weapschem'>nákresy zbraně</img>. To je skvělá příležitost vrátit je našim vědcům, aby mohli dokončit vývoj <img 'pickup_particlebeam'>částicového paprsku</img>.
+[PRIM] <br>Najdi modrý klíč a dostaň se do <img 'room_parents'>sektoru Riesen</img>.
+[SCND] <br>Najdi <img 'pickup_weapschem'>nákresy zbraně</img>. Ukradni aspoň 8 tub <img 'pickup_glue'>lepidla</img>.
+
+=== axis7.brf
+[NAME] Dr. Zweistein
+[OUTL] <br>Před několika měsíci byl z naší tajné výzkumné laboratoře unesen jeden z našich předních vědců. On a jeho tým tajně pracovali na mimořádném novém pohonu. Těsně před dokončením obsadily oblast britské zvláštní jednotky a veškerá práce ustala.<br><br>\nVčera naši špioni zjistili, kde doktora a jeho kolegy vězní. Je čas je ukrást zpátky.
+[TEXT] Vědci jsou vězněni v hlavním sektoru Spojenců, takže nemůžeme riskovat čelní útok. Místo toho naši špioni připravili výzkumný tým v <img 'unit_willysjeep'>džípu Willys</img> k odjezdu.<br><br>\nTvým úkolem bude otevřít klíčem <img 'room_kids'>sektor Insel</img> a doprovodit džípy dolů do bezpečí našeho velitelství. A při tom se poohlédni po nové <img 'pickup_kit'>stavebnici</img> v <img 'room_dhall'>sektoru Kreuzung</img>. Na životech těch vědců závisí naše další generace stíhaček, tak se postarej, ať jsou v pořádku.
+[PRIM] <br>Seber žlutý klíč, <img 'pickup_kit'>stavebnici</img> modelu a její <img 'pickup_plans'>plánky</img>.
+[SCND] <br>Zachraň doktora Zweisteina a doprovoď ho do <img 'room_living'>sektoru Stellung</img>.
+
+=== axis8.brf
+[NAME] Potíže s autem
+[OUTL] <br>Britské letectvo je víceméně zničené a naše továrny sériově vyrábějí nový Messerschmitt 262, na kterém se podílel Dr. Zweistein, takže můžeme pomalu zahájit tažení Zerstorer.<br><br>\nPrvní krok není nijak dramatický. Abychom zajistili celou oblast, musíme nejdřív posílit obranu. Ale věř, brzy přijde čas na náš poslední bleskový úder proti Spojencům.
+[TEXT] Naše síly v <img 'room_garage'>sektoru Trager</img> potřebují posílit dalšími pozemními jednotkami. Budeš doprovázet a chránit několik konvojů ze <img 'room_living'>sektoru Stellung</img>. Cílová oblast je kvůli bezpečí našich jednotek zamčená, takže musíš najít žlutý klíč.<br><br>Čekáme útok nové noční stíhačky Spojenců, tak se připrav. Chceme, abys sestřelil určitý počet těchto stíhacích bombardérů a poslal tak USAF naše pozdravy.
+[PRIM] <br>Najdi žlutý klíč. Doprovoď a chraň konvoje.
+[SCND] <br>Vypátrej a znič aspoň 3 nepřátelské noční stíhačky.
+
+=== axis9.brf
+[NAME] Ponorková stanice
+[OUTL] <br>Toto je druhá fáze našeho nového tažení Zerstorer. Musíme otevřít zásobovací trasu z naší tajné ponorkové základny v sektoru Untersee k našemu velitelství.<br><br>Podle nedávno zachycených zpráv můžeme v této oblasti čekat silný námořní útok. Musíme všem takovým nájezdům učinit přítrž a ušetřit naše ponorky na závěrečný útok.
+[TEXT] Zásobovací trasa ze <img 'room_cellar'>sektoru Untersee</img> vyústí blízko našeho hlavního sektoru, ale musíme ji otevřít. Ten problém vyřeší oranžový klíč, ale musíš ho najít rychle.<br><br>\nPrávě jsme dostali rádiovou zprávu od našich <img 'unit_uboat'>ponorek</img>, že jsou pod útokem. Pospěš si, pilote.
+[PRIM] <br>Najdi oranžový klíč a otevři dveře v <img 'room_dhall'>sektoru Kreuzung</img>.
+[SCND] <br>Braň ponorky v <img 'room_cellar'>sektoru Untersee</img>.

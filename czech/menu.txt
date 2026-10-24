@@ -1,0 +1,10 @@
+# Czech labels on the main menu picture (the yellow paper notes), used by gtVRcz.exe.
+# id  x0 y0 x1 y1 (note rectangle in the 640x480 menu)  scale dx dy (fine tuning)  text ('|' = new line)
+pilot     160 142 207 175  0.85  1  1  PILOTI
+house     320 134 363 163  0.92  0  0  EDITOR|DOMU
+multi     374 241 413 268  0.90  0 -1  VÍCE|HRÁČŮ
+options   453 233 493 263  0.90  3  1  MOŽNOSTI
+logout    588 240 628 262  1.00  0  0  KONEC
+credits    47 329  97 358  1.00  0  0  AUTOŘI
+campaign  192 301 254 329  1.00  0  0  TAŽENÍ
+paint     351 338 396 367  1.00  0  0  MALÍRNA

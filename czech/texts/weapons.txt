@@ -1,0 +1,26 @@
+=== A-bomb.txt
+Atomová bomba je děsivá zbraň, se kterou je nejlepší zacházet opatrně. Tato matka všech bomb je velmi účinná proti všem druhům pozemních jednotek a v okolí obvykle vypaří i letadla, nepřátelská i spřátelená. Tak silnou zbraň je velmi těžké sehnat a obvykle je k mání jen ve velmi malém množství.
+
+=== Bombs.txt
+Bomby jsou přesný způsob, jak ničit pozemní jednotky. Svou práci odvedou s přesnou účinností a osvědčí se v mnoha situacích. S rostoucí technickou úrovní je tato zbraň čím dál smrtonosnější a nakonec funguje jako kazetová bomba. Pro nejlepší přesnost nezapomeň při bombardování přepnout na bombovou kameru.
+
+=== Cannons.txt
+Kanóny pálí polointeligentní smrtící granáty, které vybuchují při zásahu nebo v blízkosti nepřátelských jednotek. Tato zbraň je velmi užitečná, nejlépe proti jiným stíhačkám a letadlům. Miř kousek před jejich nos a pal. Na vyšších technických úrovních si ale dávej pozor, protože granáty se začnou odrážet od stěn a mohou zasáhnout i tebe.
+
+=== Homing_Missile.txt
+Naváděná střela je chytrá raketa, která ti pomůže sestřelit jiné rychlé stíhačky. Otáčí se a pronásleduje nepřítele, i když se jí snaží vymanévrovat rychlými náklony a výkruty. Radši se nauč, jak se jí vyhnout, protože příště můžeš být jejím cílem ty.
+
+=== Machineguns.txt
+Kulomet je standardní výzbroj všech letadel. Je to šikovná univerzální zbraň, dobrá na kropení stíhaček i na ostřelování pozemních jednotek nebo rozbíjení porcelánu. S rostoucí technickou úrovní to rozhodně není zbraň k zahození a radši by ti do ní nikdy neměla dojít munice.
+
+=== Paramines.txt
+Tato obranná zbraň vypustí náklad smrtících padáků s TNT, které se vznášejí ve vzduchu. Miny jsou skvělé, když se potřebuješ zbavit nepřátel za zády. Vybuchnou při nárazu nebo když se k nim nějaká jednotka přiblíží. Takže pozor, jakmile se oddělí od tvého letadla, jsou stejně smrtonosné pro tebe jako pro nepřítele.
+
+=== Particle_Beam.txt
+Toto zlověstné zařízení vystřeluje vysokofrekvenční částicový paprsek, který roztaví i ten nejsilnější pancíř. Je mimořádně účinné proti všem druhům jednotek a měl by sis ho šetřit na zvlášť těžké situace, protože se shání dost těžko.
+
+=== Rockets.txt
+Rakety jsou jednoduché bomby s vlastním pohonem, které se řítí přímo vpřed k cíli. Dobrá volba proti jakýmkoli pozemním jednotkám, hlavně na vyšších technických úrovních. Díky vysoké rychlosti se hodí i ve vzdušném boji, ale rychlé a hbité cíle často minou.
+
+=== Tesla_Coil.txt
+Tato nabitá baterie vyšle přímo před tvou stíhačku ničivý řetězový blesk. Při nepřetržité palbě přeskakuje z jednotky na jednotku a každou z nich poškodí. Je velmi účinná, ale používej ji opatrně, protože poškozuje i spřátelené jednotky.

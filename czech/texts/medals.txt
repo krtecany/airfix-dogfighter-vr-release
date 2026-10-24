@@ -1,0 +1,146 @@
+=== medal_10a.txt
+Ohromná medaile za vynikající službu:
+
+(Mise Osy 10)
+
+O tvé statečnosti se bude vyprávět po generace. Jako jedno z mála es, která se dožila konce této hrozné války, dostáváš naše nejbohatší vyznamenání. Nos ho hrdě a na veřejnosti co nejčastěji, ať se můžeš chlubit svými úspěchy a úspěchem našeho tažení.
+
+=== medal_10b.txt
+Slavná medaile za chrabrost:
+
+(Mise Spojenců 10)
+
+Takovou dokonalost jsme u pilota viděli jen zřídka. Jsi opravdu jedním z našich nejlepších es a bez tvého obětavého úsilí bychom toto tažení nikdy vítězně neukončili. Nikdy v historii nevděčilo tolik lidí za tolik tak málu lidem. Sláva statečným!
+
+=== medal_1a.txt
+Čestná medaile zelenáčů:
+
+(Mise Osy 1)
+
+Tuto medaili dostáváš za úspěšné splnění úkolů z tvého prvního dne na letišti Richthofen. S velkou pozorností jsi předvedl skvělé letové manévry a ohromující koordinaci útoku.
+
+=== medal_1b.txt
+První uvítací medaile:
+
+(Mise Spojenců 1)
+
+S velkým odhodláním a přesvědčivým ovládáním stíhačky jsi dnes prokázal, že jsi dobrý letec, hodný této výjimečné medailičky. Mají ji tu na letišti Avalon všichni.
+
+=== medal_2a.txt
+Upatlaná medaile za špagetovou službu:
+
+(Mise Osy 2)
+
+Za to, že jsi zbavil sektor Nahrung zákeřných spojeneckých špionů, dostáváš tuto medaili. Je znakem velké důvěry a zajistí ti na rok jídlo zdarma v jídelně.
+
+=== medal_2b.txt
+Průzkumná medaile utajení:
+
+(Mise Spojenců 2)
+
+Za úspěšné nalezení a získání ztracených nákresů zbraně v sektoru Parentage dostáváš tuto pěknou medaili. Snad to konečně ukončí zvěsti o té bohem zapomenuté místnosti. Žádní skřeti tam nejsou...
+
+=== medal_3a.txt
+Medaile Il Duceho za boj o jídlo:
+
+(Mise Osy 3)
+
+Italové poslali tuto medaili a požádali nás, abychom ti ji předali za tvé statečné činy v sektoru Fressen. Tvá statečnost nám velmi pomohla v mezinárodních vztazích a jsme ti nesmírně vděční.
+
+=== medal_3b.txt
+Holčičí medaile za ničení:
+
+(Mise Spojenců 3)
+
+Tuto medaili dostáváš jako projev vděčnosti za šlechetné úsilí při zničení továrny na zbraně v ohavném sektoru Pinky Hill. Závisely na tom životy mnoha vojáků. Navíc jsi udělal dobrý dojem na Yankeey, což bylo pro naši nadcházející spolupráci klíčové.
+
+=== medal_4a.txt
+Zářivá medaile za statečnost:
+
+(Mise Osy 4)
+
+Tuto medaili dostáváš jako projev uznání nejen za úspěšný útok na radarové stanice v sektoru Waesche, ale také za to, že jsi nám přinesl čisté uniformy z prádelny.
+
+=== medal_4b.txt
+Přísná medaile za obranu:
+
+(Mise Spojenců 4)
+
+Za obranu našeho předmostí v sektoru Althorn před nálety bombardérů a tankovým útokem a za zajištění našeho hlavního obranného perimetru ti udělujeme tuto medaili. Pracoval jsi vlastně tak tvrdě, že sis zasloužil dvě, ale měli jsme jen jednu. Promiň.
+
+=== medal_5a.txt
+Doprovodná medaile za úspěch:
+
+(Mise Osy 5)
+
+Za mimořádné úsilí při pomoci našim bombardérům v útoku na spojenecká letiště dostáváš tuto pěknou medaili. Nebýt tebe, přišla by dnes spousta dobrých letců o své kožené kalhoty.
+
+=== medal_5b.txt
+Vznešená medaile za omývání:
+
+(Mise Spojenců 5)
+
+Za citelné oslabení zámořského teroru potopením dvou vzácných německých ponorek dostáváš tento lesklý kousek kovu. Dobrá práce, pilote.
+
+=== medal_6a.txt
+Zlodějská medaile lepidla:
+
+(Mise Osy 6)
+
+V těchto těžkých časech jsi nasadil vlastní život, abys zajistil naše zásoby lepidla. Za tento odvážný kousek dostáváš tuto medaili, která představuje tvé znalosti bleskových náletů a taktiky průniku.
+
+=== medal_6b.txt
+Pochybná medaile za krádež:
+
+(Mise Spojenců 6)
+
+I když cíl této mise nebyl zrovna šlechetný, byl zato velmi důležitý. Za to, že se ti podařilo ukrást nákresy zbraně v hlavním sektoru sil Osy, ti s hrdostí udělujeme tuto úhlednou medaili.
+
+=== medal_7a.txt
+Velká medaile vděčnosti:
+
+(Mise Osy 7)
+
+Významný Dr. Zweistein je bez sebe vděčností za tvou záchrannou akci, která jeho a jeho výzkumný tým vysvobodila ze spárů zlých pijáků čaje. Jeden z jeho asistentů právě přinesl tuto výjimečnou medaili, zřejmě vyrobenou ze vzácných kovů a slitin. Je na ní tvé jméno.
+
+=== medal_7b.txt
+Chrabrá medaile odporu:
+
+(Mise Spojenců 7)
+
+Znovu jsi předvedl své obranné schopnosti. Vlna za vlnou zlých Hunů útočila na naši hlavní základnu, a přesto jsi nás všechny chránil svou odvahou a svým olovo chrlícím kulometem. Za to ti udělujeme jedno z našich nejlepších vyznamenání. Sláva statečným.
+
+=== medal_8a.txt
+Vážná medaile za únavu materiálu:
+
+(Mise Osy 8)
+
+Za pomoc našim obrněným jednotkám při cestě do sektoru Trager a za zastavení mnoha amerických nočních stíhaček, které se zákeřně pokusily shodit na naše letiště obrovské auto, dostáváš tuto legrační medailičku, kterou ti budou všichni závidět.
+
+=== medal_8b.txt
+Vzácná medaile za pomoc:
+
+(Mise Spojenců 8)
+
+Americké velení předalo tuto medaili výborného řemeslného zpracování. Děkují ti za skvělou podporu, kterou jsi poskytl jejich pozemním jednotkám při obléhání sektoru Liven, a přejí ti i nadále dobrý lov na ty zatracené proudové stíhačky.
+
+=== medal_9a.txt
+Námořní medaile hlubin:
+
+(Mise Osy 9)
+
+Znovu jsi předčil ostatní a ukázal svou neochvějnou vůli překonat všechna nebezpečí. Naše ponorky potřebovaly pomoc a tu jsi jim poskytl. Díky tomu, že tento temný a strašidelný sektor zůstal pod naší kontrolou, je zásobovací trasa stále otevřená a připravená k použití.
+
+=== medal_9b.txt
+Tátova medaile za pojištění auta:
+
+(Mise Spojenců 9)
+
+Létáš jako vítr, pilote. Zničení letiště Osy v sektoru Gaggle budou studovat příští generace stíhacích pilotů. Bez pochyby sis zasloužil tuto elegantní medaili, kterou laskavě poskytli někteří z našich sponzorů.
+
+=== medal_rookie.txt
+Pilotní křídla:
+
+(Letecká akademie)
+
+To jsou tvá hrdá křídla. Dokazují, že jsi úspěšně dokončil letecký výcvik a že jsi zručný pilot. I když ti ještě chybí zkušenosti z boje na frontě, před nebezpečím rychlých soubojů nezaváháš.
